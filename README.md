@@ -2,7 +2,7 @@
 /tp command for FiveM
 
 ## Features
-- Works with comma(s) in arguments
+- Works with commas in arguments
 
 ## Example
 - `/tp 123.0 -123.0 20.0`
